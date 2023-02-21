@@ -8,7 +8,7 @@ body {
 #main {
   width: 100%;
   background-color: rgb(232, 232, 232);
-  border: 0px solid lightgray;
+  border: 1px solid lightgray;
   border-radius: 5px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -59,13 +59,14 @@ header {
   padding-top: 15px;
   
 }
+
 #caption-footer{
   padding-top: 7px;
 }
+
 #footer-container{
   padding-top: 20px;
   text-align: center;
   font-weight: bold;
   font-size: 1.2rem;
-  
 }
