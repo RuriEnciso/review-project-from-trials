@@ -8,7 +8,7 @@ body {
 #main {
   width: 100%;
   background-color: rgb(232, 232, 232);
-  border: 0px solid lightgray;
+  border: 1px solid lightgray;
   border-radius: 5px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -49,7 +49,7 @@ header {
   line-height: 1.7rem;
 }
 
-#block{
+#block {
   text-align: left;
   width: 40%;
   margin-left: auto;
@@ -57,15 +57,15 @@ header {
   font-style: italic;
   line-height: 1.7rem;
   padding-top: 15px;
-  
 }
-#caption-footer{
+
+#caption-footer {
   padding-top: 7px;
 }
-#footer-container{
+
+#footer-container {
   padding-top: 20px;
   text-align: center;
   font-weight: bold;
   font-size: 1.2rem;
-  
 }
